@@ -14,10 +14,6 @@ The returned array must contain only unique values (no duplicates).
 
 */
 
-arr1 = [1, 2, 1, 3]
-arr2 = [5, 2, 1, 4]
-arr3 = [7, 8, 9]
-
 function sym(args) {
 
     let difference = []
